@@ -2,6 +2,8 @@
 new test repo with course tasks
 
 tesr test test
+
+
 .
 ┈┈╱▔▔▔▏┈┈▕╲┈╱▏┈┈
 ┈╱╱▔▔▔┈┈┈╱┳▔┳╲┈┈
@@ -12,9 +14,12 @@ tesr test test
 ┈┈▏┏━┳┳━━┓┏━┓┃┈┈
 
 
+
+
 \```python
 print("Привет, мир!")
 \```
+
 
 
 | Заголовок 1 | Заголовок 2 |
